@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import SecondsCounter from "./component/SecondsCounter";
+import SecondsCounter from "./component/Home";
 
 let num1 = 0;
 let num2 = 0;
